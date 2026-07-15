@@ -6,6 +6,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I :heart: :dog:s
 ------------------------------
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+------------------------------
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20mins-blue?style=flat)
 
