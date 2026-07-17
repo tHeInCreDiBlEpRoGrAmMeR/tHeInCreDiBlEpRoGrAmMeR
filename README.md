@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: chitnisnathan@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I :heart: :dog:s
