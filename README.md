@@ -6,6 +6,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I :heart: :dog:s
 ------------------------------
+#### My Skills and more
+
+|Category        | Skills        |
+|-----------------|---------------|
+|**Programming Languages**|<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+|**Tools I use** |<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+------------------------------
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue?style=flat)
 
