@@ -11,7 +11,7 @@
 |Category        | Skills        |
 |-----------------|---------------|
 |**Programming Languages**|<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-|**Tools I use** |<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+|**Tools I use** |<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
 ------------------------------
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue?style=flat)
