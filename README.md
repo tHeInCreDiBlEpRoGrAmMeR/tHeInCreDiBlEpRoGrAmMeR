@@ -17,19 +17,19 @@
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 ------------------------------
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2026
+> 🏆 102 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -60,18 +60,21 @@ Sunday                   10 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   0 secs              ██████████████░░░░░░░░░░░   54.99 % 
-Git Config               0 secs              ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Other                    40 mins             ████████████████░░░░░░░░░   64.37 % 
+Markdown                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Lua                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+D                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Ruby                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-first-repo            0 secs              █████████████████████████   100.00 % 
+Hello-World              1 hr 2 mins         █████████████████████████   99.81 % 
+my-first-repo            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,6 +94,6 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tHeInCreDiBlEpRoGrAmMeR/tHeInCreDiBlEpRoGrAmMeR/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2026 21:49:59 UTC
+ Last Updated on 22/07/2026 22:16:24 UTC
 <!--END_SECTION:waka-->
 ------------------------------
