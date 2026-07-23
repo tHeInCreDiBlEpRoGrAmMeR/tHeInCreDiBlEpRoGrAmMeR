@@ -16,6 +16,9 @@
 #### My Github Streak
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 ------------------------------
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+------------------------------
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2013%20mins-blue?style=flat)
 
